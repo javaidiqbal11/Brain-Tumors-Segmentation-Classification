@@ -1,10 +1,3 @@
-'''
-BraTS 2023 Data loading
------------------------
-Load the dataset from the disk in batches for training and inference
-Author: Muhammad Faizan
-Copyright (c) 2022 Muhammad Faizan
-'''
 import numpy as np
 import torch
 from torch.utils.data import DataLoader, Dataset
