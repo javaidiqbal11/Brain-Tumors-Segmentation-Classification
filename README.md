@@ -153,18 +153,6 @@ python show.py --json_file <path> --fold 0 --phase <"val"> --save <path>
 - New Data augmentation options (private)
 - automatic hyperparameters optimization (private)
 
-## Cite
-
-If you find this project useful in your research, please consider cite:
-
-```latex
-@misc{brats23-tumor-segmentation,
-    title={Multi-modal BraTS 2023 brain tumor segmentation},
-    author={Muhammad Faizan},
-    howpublished = {\url{https://github.com/faizan1234567/Brats-20-Tumors-segmentation}},
-    year={2023}
-}
-```
 
 ## Acknowledgements
 [1]. http://braintumorsegmentation.org/
@@ -180,3 +168,8 @@ If you find this project useful in your research, please consider cite:
 [6]. https://arxiv.org/abs/2103.14030
 
 [7]. https://arxiv.org/abs/1512.03385
+
+
+
+### Supporting Repo
+https://github.com/faizan1234567/BraTS23-Tumors-Segmentation?tab=readme-ov-file
