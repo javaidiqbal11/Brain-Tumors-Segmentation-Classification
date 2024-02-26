@@ -146,12 +146,12 @@ python show.py --json_file <path> --fold 0 --phase <"val"> --save <path>
 ```
 
 ## New Features (to be added)
-- MLOps tools integration such as MLflow
-- Experiment tracking & Monitoring.
-- Multi-GPU training 
-- Novel architecture design (private)
-- New Data augmentation options (private)
-- automatic hyperparameters optimization (private)
+- Novel architecture design 
+- New Data augmentation options 
+- Automatic hyperparameters optimization
+- Experiment tracking & Monitoring 
+- Multi-GPU training
+- MLOps tools integration such as MLflow 
 
 
 ## Acknowledgements
@@ -169,7 +169,4 @@ python show.py --json_file <path> --fold 0 --phase <"val"> --save <path>
 
 [7]. https://arxiv.org/abs/1512.03385
 
-
-
-### Supporting Repo
-https://github.com/faizan1234567/BraTS23-Tumors-Segmentation?tab=readme-ov-file
+[8]. https://github.com/faizan1234567/BraTS23-Tumors-Segmentation?tab=readme-ov-file
