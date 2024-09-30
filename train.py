@@ -1,3 +1,5 @@
+# SwinUNETR model used to train the model (A hybrid model combining Swin Transformer and UNet)
+
 import os
 import copy
 import numpy as np
