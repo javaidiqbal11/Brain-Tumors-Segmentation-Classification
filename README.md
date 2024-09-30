@@ -2,7 +2,7 @@
 # Brain Tumors Segmentation on BraTS23 Dataset
 Brain tumor is one of the deadlist kind of disease around the globe. Among these, gliomas are ubiquitous. Physcians and Radiologists use MRI scans and CT scans to diagnose the disease. In addition, it could be highly prone to human errors, and it's time consuming process when timely diagnosis is required. To assit radioligits, deep learning is being used. Deep Learning has shown remarkable performance in medical imaging over the years. Therefore, to train a deep learning model, a large dataset is being used to train the AI model for accurate diagnosis for early treamtment of the disease.
 
-![Alt Text](https://github.com/javaidiqbal11/Brain-Tumors-Segmentation-Classification/tree/main/media/gif.gif)
+![Alt Text](media/gif.gif)
 
 ## Dataset Description
 All [BraTS23](http://braintumorsegmentation.org/) mpMRI scans are available as [NIfTI](https://radiopaedia.org/articles/nifti-file-format) files and described as  T2 Fluid Attenuated Inversion Recovery(Flair), native(T1), T2-weighted(T2), and post-contrast T1-weighted (T1Gd). They were acquired with differnt clinical protocals and various scanners from different institutions.
