@@ -42,7 +42,7 @@ image from  [Baid et al.](https://arxiv.org/pdf/2107.02314v1.pdf)
 ## Installation
 
 ```
-git clone https://github.com/faizan1234567/BraTS23-Tumors-Segmentation
+git clone https://github.com/javaidiqbal11/Brain-Tumors-Segmentation-Classification.git
 cd BraTS23-Tumors-Segmentation
 ```
 
