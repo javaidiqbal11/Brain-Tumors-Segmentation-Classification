@@ -1,3 +1,5 @@
+# Visualize the results on the test images
+
 import matplotlib.pyplot as plt
 import logging
 import numpy as np
