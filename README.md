@@ -36,7 +36,7 @@ Dataset/
 
 ```
 
-![alt text](https://github.com/javaidiqbal11/Brain-Tumors-Segmentation-Classification/tree/main/media/fig_brats21.png)
+![alt text](https://github.com/javaidiqbal11/Brain-Tumors-Segmentation-Classification/blob/main/media/fig_brats21.png)
 image from  [Baid et al.](https://arxiv.org/pdf/2107.02314v1.pdf)
 
 ## Installation
