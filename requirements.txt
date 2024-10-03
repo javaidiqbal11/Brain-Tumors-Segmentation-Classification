@@ -1,4 +1,4 @@
-# Full requirements for developments
+# Full required requirements for developments 
 monai
 keras==2.9.0
 torch>=1.7
