@@ -153,7 +153,8 @@ python show.py --json_file <path> --fold 0 --phase <"val"> --save <path>
 - Experiment tracking & Monitoring 
 - Multi-GPU training
 - MLOps tools integration such as MLflow
-- Parallel processing of the modles 
+- Parallel processing of the modles
+- Fine tuning the model parameters 
 
 
 ## Acknowledgements
