@@ -156,7 +156,6 @@ python show.py --json_file <path> --fold 0 --phase <"val"> --save <path>
 - Parallel processing of the modles
 - Fine tuning the model parameters 
 
-
 ## Acknowledgements
 [1]. http://braintumorsegmentation.org/
 
