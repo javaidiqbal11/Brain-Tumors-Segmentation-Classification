@@ -13,7 +13,7 @@ The dataset contains 1251 patient cases that are labelled by expert radiologists
 
 The dataset is represented in a directory in the following sturcture, please make necessary changes if required in your case. And make sure to add other helping files in the dataset directory.
 
-```
+```shell 
 Dataset/
 ├── training/
 │   ├── ASNR-MICCAI-BraTS2023-GLI-Challenge-TrainingData/
