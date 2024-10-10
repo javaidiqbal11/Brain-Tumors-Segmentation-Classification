@@ -146,7 +146,7 @@ optional arguments:
 python show.py --json_file <path> --fold 0 --phase <"val"> --save <path> 
 ```
 
-## New Features (to be added)
+## New Features (In-Progress)
 - Novel architecture design 
 - New Data augmentation options 
 - Automatic hyperparameters optimization
