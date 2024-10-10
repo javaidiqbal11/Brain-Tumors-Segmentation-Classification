@@ -113,7 +113,7 @@ optional arguments:
 python train.py --data <dataset-dir> --fold 0 --json_file <dataset-split-file-path>
  --batch 1 --workers 8 --val_every 2 --max_epochs 100 --pretrained_model <pretrained-model-path> 
    ```
-To test the model:
+Model Testing:
 ```
 python test.py -h
 optional arguments:
