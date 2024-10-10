@@ -74,7 +74,7 @@ pip list
 ```
 installation complete!
 
-## Google Colab Usage
+## Google Colab
 Upload the dataset on your drive. Update the train, json file, and dataset csv file paths in the colab config in the conf directory. Then mount drive with colab:
 ```python
 from google.colab import drive
